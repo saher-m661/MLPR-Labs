@@ -28,27 +28,27 @@ The project was implemented using Python libraries including OpenCV, NumPy, Matp
 
 <h5>Detected faces in Plaksha Faculty image</h5>
 
-![image.png](attachment:image.png)
+<img width="712" height="504" alt="image" src="https://github.com/user-attachments/assets/d6ffcfc0-fa03-4fd0-92e7-af85f8764cc8" />
 
 <h5>Face clustering based on Hue and Saturation</h5>
 
-![image-2.png](attachment:image-2.png)
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/6858dab6-12df-441e-a3be-01e6cd3d7e85" />
 
 <h5>Face clustering based on Hue and Saturation - Scatter plot</h5>
 
-![image-3.png](attachment:image-3.png)
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/25f3702f-255b-4aed-9aa9-57e942268619" />
 
 <h5>Face Detection of Template Image</h5>
 
-![image-4.png](attachment:image-4.png)
+<img width="389" height="389" alt="image" src="https://github.com/user-attachments/assets/8596673e-4530-4073-9895-f3da3f84ba5c" />
 
 <h5>Template Face Cluster Prediction</h5>
 
-![image-5.png](attachment:image-5.png)
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/e49b03f7-a6e3-4639-8d23-7d3ddbf06444" />
 
 <h5>Cluster Visualization-Scatter plot</h5>
 
-![image-6.png](attachment:image-6.png)
+<img width="1005" height="547" alt="image" src="https://github.com/user-attachments/assets/01fa099c-ca1b-4733-a32c-4243db1a6fef" />
 
 <h2>Key Findings</h2>
 
